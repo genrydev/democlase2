@@ -1,4 +1,4 @@
-name: Deploy ASP.NET MVC App deploy to Azure Web App
+name: Green Deploy
 
 on: [push]
 
